@@ -51,7 +51,7 @@ focus:     Mobile Apps · AI Agents · Cybersecurity
 <table>
   <tr>
     <td width="50%" align="center">
-      <h3><a href="https://github.com/IanR333/projeto-1">Maestro</a></h3>
+      <h3><a href="https://github.com/DanielRobertoRibeiro/hackathon_openai_sp.git">Maestro</a></h3>
       <p>Plataforma de orquestração human-AI para dev-ops, com bot no Telegram.</p>
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
       <img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white"/>
