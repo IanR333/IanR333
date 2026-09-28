@@ -2,11 +2,11 @@
 
 <img src="./banner.png" alt="Ian Rodrigues Martins" width="100%"/>
 
-### Cybersecurity blueteam  | Data Science & IA developer 
+### Cybersecurity Blue Team | Data Science & AI Developer
 
-<a href="https://linkedin.com/in/ [https://www.linkedin.com/in/ian-rodrigues-martins-734204357?utm_source=share_via&utm_content=profile&utm_medium=member_android](https://www.linkedin.com/in/ian-rodrigues-martins-734204357?utm_source=share_via&utm_content=profile&utm_medium=member_android)"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ian-rodrigues-martins-734204357"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:ianrodriguesmartins411@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&label=VIEWS&color=0e75b6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=IanR333&label=VIEWS&color=0e75b6&style=for-the-badge"/>
 
 </div>
 
@@ -16,15 +16,17 @@
 
 ```yaml
 name:      Ian Rodrigues Martins
-role:      DATA SCIENCE & IA 
+role:      Data Science & AI
 education: FIAP
 location:  São Paulo, BR
 focus:     Mobile Apps · AI Agents · Cybersecurity
 ```
+
 **What I'm focusing on right now:**
 *   🧠 **Artificial Intelligence & Data:** Deepening my knowledge in data analytics and attending local AI meetups to keep up with the tech ecosystem and new trends.
 *   🛡️ **Information Security:** Studying best practices to ensure that data manipulation and AI architectures are designed with rigor and protection in mind.
-*   🏆 **Hackathons & Community:** I love the challenge of building technology under pressure and the spirit of teamwork 
+*   🏆 **Hackathons & Community:** I love the challenge of building technology under pressure and the spirit of teamwork.
+
 ---
 
 ## Stack
