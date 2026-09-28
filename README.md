@@ -4,7 +4,7 @@
 
 ### Cybersecurity blueteam  | Data Science & IA developer 
 
-<a href="https://linkedin.com/in/[SEU-LINK](https://www.linkedin.com/in/ian-rodrigues-martins-734204357?utm_source=share_via&utm_content=profile&utm_medium=member_android)"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/ [https://www.linkedin.com/in/ian-rodrigues-martins-734204357?utm_source=share_via&utm_content=profile&utm_medium=member_android](https://www.linkedin.com/in/ian-rodrigues-martins-734204357?utm_source=share_via&utm_content=profile&utm_medium=member_android)"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:ianrodriguesmartins411@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&label=VIEWS&color=0e75b6&style=for-the-badge"/>
 
