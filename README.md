@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./clown.gif" alt="Clown Dancing" width="250"/>
+<img src="./clown.gif" alt="Clown Dancing" width="500"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=1000&lines=Cybersecurity+Blue+Team;Data+Science+%26+AI+Developer" alt="Typing SVG" />
