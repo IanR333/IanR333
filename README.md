@@ -22,7 +22,7 @@ name:      Ian Rodrigues Martins
 role:      Data Science & AI
 education: FIAP
 location:  São Paulo, BR
-focus:     Mobile Apps · AI Agents · Cybersecurity
+focus:     Data sciense · AI Agents · Cybersecurity
 ```
 
 **What I'm focusing on right now:**
