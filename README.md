@@ -2,7 +2,10 @@
 
 <img src="./banner.png" alt="Ian Rodrigues Martins" width="100%"/>
 
-### Cybersecurity Blue Team | Data Science & AI Developer
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Cybersecurity+Blue+Team;Data+Science+%26+AI+Developer" alt="Typing SVG" />
+</a>
+<br>
 
 <a href="https://www.linkedin.com/in/ian-rodrigues-martins-734204357"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:ianrodriguesmartins411@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
